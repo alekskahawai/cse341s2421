@@ -1,0 +1,19 @@
+{
+  "name": "cse341s2421",
+  "version": "1.0.0",
+  "description": "Contacts Project 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekskahawai/cse341s2421.git"
+  },
+  "author": "Aleksius Volleges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekskahawai/cse341s2421/issues"
+  },
+  "homepage": "https://github.com/alekskahawai/cse341s2421#readme"
+}
