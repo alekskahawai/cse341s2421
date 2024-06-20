@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alekskahawai/cse341s2421/issues"
   },
-  "homepage": "https://github.com/alekskahawai/cse341s2421#readme"
+  "homepage": "https://github.com/alekskahawai/cse341s2421#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
